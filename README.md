@@ -19,7 +19,6 @@ Bu proje, **Python + Tkinter** kullanılarak geliştirilmiş modern bir **stok t
 🔹 Sol panel: Ürün ekleme, filtreleme, stok azaltma ve silme işlemleri  
 🔹 Sağ panel: Stok listesi tablosu ve dinamik grafik  
 
-*(Ekran görüntülerini buraya ekleyebilirsiniz)*  
 
 ## 🛠️ Kullanılan Teknolojiler
 
