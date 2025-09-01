@@ -37,6 +37,7 @@ Bu proje, **Python + Tkinter** kullanılarak geliştirilmiş modern bir **stok t
 2.Gerekli bağımlılıkları yükleyin:
 
 ```pip install matplotlib openpyxl```
+```pip install openpyxl```
 
 3.Uygulamayı çalıştırın:
 
